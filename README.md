@@ -28,6 +28,9 @@ Os dados também são exibidos em um **display LCD I2C**.
 - Envia os dados em formato **JSON** para um **endpoint HTTP** (ex.: `Node-RED`).  
 
 ---
+## Diagrama
+![Diagrama da imagem](diagrama.png)
+
 
 ## 📡 Fluxo de dados
 1. Sensor (simulado no código) → **ESP32**  
