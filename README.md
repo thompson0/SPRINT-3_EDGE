@@ -5,11 +5,10 @@ Os dados também são exibidos em um **display LCD I2C**.
 
 ---
 ## Integrantes
-Gabriel Thompson – RM563126
-Nicolas Baradel - RM563245
-João Pedro Sassarão - RM562499
-Juan Pablo Molina - RM564445
-
+- Gabriel Thompson – RM563126
+- Nicolas Baradel - RM563245
+- João Pedro Sassarão - RM562499
+- Juan Pablo Molina - RM564445
 
 ## 🛠️ Tecnologias utilizadas
 - **ESP32** (WiFi integrado)  
